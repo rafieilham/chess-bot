@@ -1,0 +1,8 @@
+chess>=1.11.0
+mss>=10.2.0
+numpy>=2.0.0
+pyautogui>=0.9.54
+pillow>=11.0.0
+opencv-python>=4.8.0
+sounddevice>=0.5.0
+customtkinter>=6.0.0

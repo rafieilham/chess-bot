@@ -1,0 +1,27 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Stockfish engine & executables
+stockfish/
+*.exe
+*.zip
+*.bin
+
+# Local configurations & logs
+*.log
+.chess_bot*.json
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
